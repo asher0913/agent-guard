@@ -1,6 +1,8 @@
 # AgentGuard
 
 [![CI](https://github.com/asher0913/agent-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/asher0913/agent-guard/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An explainable policy-enforcement gateway for AI agent tool calls. AgentGuard evaluates each
 proposed action before execution and returns one of three decisions: `allow`,
